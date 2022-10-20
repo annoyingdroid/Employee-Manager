@@ -1,4 +1,4 @@
-#Employee-Manager
+# Employee-Manager
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
 
 ## Table of Contents
